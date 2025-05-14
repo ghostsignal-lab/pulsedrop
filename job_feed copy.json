@@ -1,0 +1,16 @@
+[
+    {
+        "company":"Skydio",
+        "title":"IT Support Specialist",
+        "description": "We are seeking a remote IT Support Specialist with experience in Windows systems, incident tracking and end-user troubleshooting",
+        "source": "Indeed",
+        "url": "https://www.indeed.com/viewjob?jk=skydio123"
+    },
+    {
+        "company": "Acme Corp",
+        "title": "Help Desk Technician",
+        "description": "The candidate will provide technical assitance and support for incoming queries and issues related to computer systems, software and hardware.",
+        "source": "Indeed",
+        "url": "https://www.indeed.com/viewjob?jk=acme456"
+    }
+]
